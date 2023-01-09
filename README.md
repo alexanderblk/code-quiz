@@ -19,18 +19,15 @@ At the beginning I found it straight-forward as I have made a pseudocode in my h
 
 The below screenshots are from the entire journey with the finished project
 
-1. Start from the HTML & CSS structure for the quiz, including the start screen, and end screen.
+1. Start from the HTML & CSS structure for the quiz, including the start screen, and end screen. <img width="1920" alt="Screenshot - Startup HTML Code" src="https://user-images.githubusercontent.com/115581300/211331772-aab964c7-516e-425e-b911-1c35414ff8af.png">
 
-2. Write the questions and answer choices in a separate JavaScript file (questions.js).
+2. Write the questions and answer choices in a separate JavaScript file (questions.js). <img width="1920" alt="Screenshot - Questions js file" src="https://user-images.githubusercontent.com/115581300/211331823-17d171ff-23cc-4ee4-bccc-1f153fbe6c3a.png">
 
-3. Set up the script.js file to handle the logic of the quiz, including starting the quiz, displaying questions and choices, checking answers, and handling the end of the quiz.
+3. Set up the script.js file to handle the logic of the quiz, including starting the quiz, displaying questions and choices, checking answers, and handling the end of the quiz. <img width="1920" alt="Screenshot - Script js file" src="https://user-images.githubusercontent.com/115581300/211331863-3dc091f3-a3dc-473a-9af6-1ddb9681815d.png">
 
-4. Use the localStorage API to save and retrieve the user's high scores.
+4. Use the localStorage API to save and retrieve the user's high scores. <img width="1920" alt="Screenshot - Highscore js file" src="https://user-images.githubusercontent.com/115581300/211331887-3074f9d1-4a0d-4f8e-9294-859abfdd1c71.png">
 
-5. Test the quiz to make sure everything is working as expected.
-
-
-
+5. Test the quiz to make sure everything is working as expected. <img width="1920" alt="Screenshot - Questions Quiz" src="https://user-images.githubusercontent.com/115581300/211331908-0b8f9d54-285b-45ea-908d-b39274f87386.png">
 
 # Things I learned
 
